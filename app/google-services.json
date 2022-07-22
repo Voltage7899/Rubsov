@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37662239557",
+    "firebase_url": "https://rubsov-21956-default-rtdb.firebaseio.com",
+    "project_id": "rubsov-21956",
+    "storage_bucket": "rubsov-21956.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37662239557:android:4fdd2ed684de523cf5ec2c",
+        "android_client_info": {
+          "package_name": "com.example.rubsov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37662239557-uu5jpk5gqd4ij4ubalq22549ftc48le0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rubsov",
+            "certificate_hash": "01e39568b596bc4fec30a43a78401c09b9ed164d"
+          }
+        },
+        {
+          "client_id": "37662239557-pfeuhh8n2ce8m6q2jl6n9a9ki57eqmm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOtrl2KekMt-Jh7FqOwFTjB1Isr-yz4w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37662239557-pfeuhh8n2ce8m6q2jl6n9a9ki57eqmm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
